@@ -149,7 +149,8 @@
           "options": {
             "routes": [
               "/"
-            ]
+            ],
+            "routesFile" : "user-routes"
           },
           "configurations": {
             "production": {
