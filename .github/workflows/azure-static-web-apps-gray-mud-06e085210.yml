@@ -27,7 +27,7 @@ jobs:
         ###### Repository/Build Configurations - These values can be configured to match you app requirements. ######
         app_location: '/' # App source code path
         api_location: 'api' # Api source code path - optional
-        app_artifact_location: 'dist/browser' # Built app content directory - optional
+        app_artifact_location: 'dist/ng-swa/browser' # Built app content directory - optional
         app_build_command: 'npm run prerender'
         ###### End of Repository/Build Configurations ######
 
